@@ -1,6 +1,5 @@
-Getting-Cleaning-Data-Project
-=============================
-
+Getting-cleaning-project
+========================
 ### Details of the project
 The purpose of this project is to collect, work with, and clean a data set in the link 
 The goal is to prepare tidy data that can be used for later analysis.
